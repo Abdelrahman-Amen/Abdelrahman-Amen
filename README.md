@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman Amin  </h1>
 
 ## About Me
-<h3 align="center">A machine learning and AI enthusiast . My GitHub is a showcase of projects where I apply AI to solve real-world problems. Explore the repositories to see my diverse range of work, spanning algorithms, deep learning, and more.I take pride in efficient time management, allowing me to deliver quality projects while balancing various commitments. My ability to learn fast and adapt quickly is reflected in the variety of projects I've undertaken. If you share a passion for leveraging AI to make a positive impact, I'd love to connect and explore opportunities for collaboration on innovative projects.</h3>
+<h3 align="center">Machine learning and AI enthusiast . My GitHub is a showcase of projects where I apply AI to solve real-world problems. Explore the repositories to see my diverse range of work, spanning algorithms, deep learning, and more.I take pride in efficient time management, allowing me to deliver quality projects while balancing various commitments. My ability to learn fast and adapt quickly is reflected in the variety of projects I've undertaken. If you share a passion for leveraging AI to make a positive impact, I'd love to connect and explore opportunities for collaboration on innovative projects.</h3>
 
 - 📫 How to reach me **abdelrahman.amin3000@gmail.com**
 ## 🌐 Socials:
