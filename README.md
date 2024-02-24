@@ -1,9 +1,19 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman Amin  </h1>
+<!-- <img width="250" align="right" src="https://media1.tenor.com/m/y3BXgrI-FpIAAAAC/robot-ai.gif">
+ -->
+<!-- <img width="100" align="right" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
+  -->
 
+
+   <img width="70" align="right" src="https://media1.tenor.com/m/TWwip6b2x0kAAAAC/robot-wave-waving.gif">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+
+
+
 
 
 ## About Me
