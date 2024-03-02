@@ -5,7 +5,7 @@
   -->
 
 
-   <img width="75" align="right" src="https://media1.tenor.com/m/TWwip6b2x0kAAAAC/robot-wave-waving.gif">
+   <img width="70" align="right" src="https://media1.tenor.com/m/TWwip6b2x0kAAAAC/robot-wave-waving.gif">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
